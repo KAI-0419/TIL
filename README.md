@@ -1,3 +1,3 @@
-# Today I Learned
+# Today I Learned 🤩
 
-> workplace i write things i have learned or studied <strong>to improve<strong> myself
+> A journal i write stuff i have learned or studied for <strong>room for improvement<strong>
