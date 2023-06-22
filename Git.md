@@ -24,3 +24,11 @@
   -  유실된 커밋을 주체로 돌려놓는 방법
 - git cherry-pick "commitID"
   - 유실된 커밋만 현재 브랜치로 가져오는 방법
+
+***
+
+### Git 변경 내역 오려두는 방법
+-git stash
+  - 변경된 내역/파일 전체를 잠시 오려두는 방법
+-git stash pop
+  - git stash했던 내역/파일을 다시 원래대로 pop하는 방법
