@@ -28,7 +28,7 @@
 ***
 
 ### Git 변경 내역 오려두는 방법
--git stash
+- git stash
   - 변경된 내역/파일 전체를 잠시 오려두는 방법
--git stash pop
+- git stash pop
   - git stash했던 내역/파일을 다시 원래대로 pop하는 방법
