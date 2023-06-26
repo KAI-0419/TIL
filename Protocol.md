@@ -1,7 +1,10 @@
-LAN이란?
-WAN이란?
-Network란?
-Internet이란?
-HUB란?
-IPv4 / IPv6
-WEB / HTML
+- LAN?
+  - Local Area Network: 허브와 연결된 랜선에 의해 근거리로 연결되어 있는 컴퓨터가 이루는 망(고속의 데이터 전송 속도와 낮은 지연 시간)
+- WAN?
+  - Wide Area Network: ISP <-> 공유기(라우터)를 통해 장거리 컴퓨터도 연결할 수 있는 망(LAN보다 전송 속도와 지연시간은 느리다)
+- HUB?
+  - 본래 컴퓨터는 컴퓨터끼리 연결되어 정보를 전송했는데, 이러한 방식은 매우 비효율적이었기 때문에 마치 식당의 kiosk처럼 중간 관리인이 나타나게 된 것이다.
+- IPv4 / IPv6
+  - IPv4는 32bit로 되어있는데 컴퓨터 보급률이 높아짐에 따라 IP 주소가 부족해 IPv6(128bit)가 탄생하게 되었다.
+- WEB / HTML
+  - Web과 HTML의 상관관계: web은 마크업 언어인 HTML(Hypertext Markup Language)을 재렌더링하여 사용자에게 화면을 보여주는 형태이다.
